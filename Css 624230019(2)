@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+
+ <link href="styles.css" rel="stylesheet">
+  
+ <style>
+ #top1{
+		font-style:iltaic; 
+		font-size:40px;
+		color:red;
+		text-align:left;
+		font-weight:bold;
+		}
+
+
+#top2{
+		text-align:center;
+		color:blue;
+		font-size:14px;
+		font-weight:bold;
+		}
+
+
+#top3{
+		color:black;
+		font-size:14px;
+		font-weight:bold;
+		}
+
+#top4{  
+
+		font-size:14px;
+		color:black;
+		}
+		
+#top5{
+		font-size:14px;
+		color:black;
+		text-align:left;
+		}
+</style>
+
+
+	<div id="top1">ข่าว</div>
+	<div id="top2">"กับดักอันตราย ที่ทำให้เราล้มเหลวได้ง่ายๆ"</div>
+	<div id="top3">1.ชะล่าใจว่าทุกอย่างก็คงเหมือนเดิม</div>
+	<div id="top4">การทำอะไรที่ต่อเนื่องหรือทำกันอยู่เสมอๆ นั้นมักทำให้เราเกิดสิ่งที่เรียกว่า "ความเคยชิน" จนนำไปสู่ "ความเคยตัว" และ  "ชะล่าใจ" ในท้ายที่สุด</div>
+	<div id="top3">2.การพยายามทำอะไรอยู่บนวิธีการเดิม
+	<div id="top4">สิ่งที่หลายๆ คนมักจะเป็นคือการเรียนรู้ทักษะอะไรบางอย่าง หรือได้พัฒนาอะไรบางอย่างขึ้นมาจนสำเร็จ</div>
+	<div id="top5">จากนั้นก็จะหยุดอยู่กับการกระบวนการนั้น เช่น ถ้าคิดระบบการทำงานอย่างหนึ่งขึ้นมา เราก็จะใช้ระบบ</div>
+	<div id="top5">นั้นไปเรื่อยๆ โดยไม่ได้ทบทวนหรือกลับไปสำรวจว่าเราต้องเปลี่ยนแปลงอะไรไหม</div>
+	<div id="top4">อ่านข่าวต่อได้ที่: http//www.thairath.co.th/content/736096</div>
+
+
+
+ 
+</html>

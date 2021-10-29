@@ -1,0 +1,47 @@
+<!DOCTYPE html> 
+ <html lang="en"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="Generator" content="EditPlus®"> 
+  <meta name="Author" content=""> 
+  <meta name="Keywords" content=""> 
+  <meta name="Description" content=""> 
+  <title>ใบงานที่ 6 ข้อที่ 1</title> 
+ </head> 
+ <body> 
+ 	<script language="javascript">  	s = 40; r = 12;  	multi(s, r);  	function multi(score, round)  
+ 	{ 
+ 	for(i=1;i<=round;i++) 
+ 	{ 
+ 	if(score<50)  
+ 	{ 
+ 	 	document.write("<h1><center> Grade: F "+"Score: "+score+"</center></h1>") 
+ 	 	} 
+ 	 	else if (score<60) 
+ 	 	{ 
+ 	 	document.write("<h1><center> Grade: D "+"Score: "+score+"</center></h1>") 
+ 	 	} 
+ 	 	else if (score<70) 
+ 	 	{ 
+ 	 	document.write("<h1><center> Grade: C "+"Score: "+score+"</center></h1>") 
+ 	 	} 
+ 	 	else if (score<80) 
+ 	 	{ 
+ 	 	document.write("<h1><center> Grade: B "+"Score: "+score+"</center></h1>") 
+ 	 	} 
+ 	 	else if (score>=80 && score<=100) 
+ 	 	{ 
+ 	 	document.write("<h1><center> Grade: A "+"Score: "+score+"</center></h1>") 
+ 	 	} 
+ 	 	else  
+ 	 	{ 
+ 	 	document.write("<h1><center> Error </center></h1>") 
+ 	 	} 
+ 	 	score=score+5; 
+ 	 	} 
+ 	 	return; 
+ 	} 
+ 	</script> 
+ </body> 
+</html> 
+
